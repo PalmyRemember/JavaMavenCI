@@ -9,6 +9,7 @@ import com.main.Buffet;
 
 import junit.framework.Assert;
 
+
 public class BuffetTest {
 	public int number;
 	Buffet buf;
